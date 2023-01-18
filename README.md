@@ -3,10 +3,7 @@ Foi proposto fazer uma modelagem de dados dos alunos, turmas e cursos da Resilia
 - <h4> Existem outras entidades além dessas três? </h4>
 - <h4> Quais são os principais campos e tipos? </h4>
 - <h4> Como essas entidades estão relacionadas? </h4>
-- <h4> Existem outras entidades além dessas três? </h4>
-- <h4> Quais são os principais campos e tipos? </h4>
-- <h4> Como essas entidades estão relacionadas? </h4>
-
+- 
 <hr>
 
 ## Os arquivos, mostrando o modelo, diagrama e respondendo as perguntas
