@@ -4,7 +4,6 @@ Foi proposto fazer uma modelagem de dados dos alunos, turmas e cursos da Resilia
 - Quais são os principais campos e tipos?
 - Como essas entidades estão relacionadas?
 <hr>
-
 ## Os arquivos, mostrando o modelo, diagrama e respondendo as perguntas
 Há três arquivos: 
 <ol> 
