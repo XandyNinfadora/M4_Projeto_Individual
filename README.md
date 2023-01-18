@@ -9,7 +9,7 @@ Foi proposto fazer uma modelagem de dados dos alunos, turmas e cursos da Resilia
 <ol> 
 <li> DiagramaBanco.png - este se trata do diagrama do banco;</li>
 <li> ModelagemBanco.png - este aqui sendo a modelagem do banco;</li>
-<li> ScriptBanco.sql - este sendo justamente todo o script que foi usado para levantar esse banco e suas tabelas</li>
+<li> ScriptBanco.sql - este sendo justamente todo o script que foi usado para levantar esse banco e suas tabelas.</li>
 </ol>
 <hr>
 <h4> O digrama </h4>
