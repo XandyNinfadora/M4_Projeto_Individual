@@ -14,9 +14,10 @@ Foi proposto fazer uma modelagem de dados dos alunos, turmas e cursos da Resilia
 <hr>
 <h4> O digrama </h4>
 Após levantamento dos dados, foi visto a necessidade da criação de mais entidades para complementar aquelas já existentes. Neste caso foram adicionadas as entidades professor e disciplina.
-<center> <img src="/DiagramaBanco.png" width="800px"/> </center>
+<img src="/DiagramaBanco.png" width="800px"/>
 <hr>
 <h4> A modelagem </h4>
+<img src="/ModelagemBanco.png" width="800px"/>
 As entidades estão relacionamento de pertencimento uma com as outras, sendo professor e aluno não se encontrando ou tendo relações diretas, porém estão diretamente interligados pela tabela turma. Os principais campos foram:
 <ol> 
 <li> matricula_aluno - PK - Tabela aluno;</li>
