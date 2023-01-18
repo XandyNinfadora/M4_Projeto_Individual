@@ -4,19 +4,19 @@ Foi proposto fazer uma modelagem de dados dos alunos, turmas e cursos da Resilia
 - Quais são os principais campos e tipos?
 - Como essas entidades estão relacionadas?
 <hr>
-<h3> Os arquivos, mostrando o modelo, diagrama e respondendo as perguntas</h3>
-<h4> Há três arquivos:</h4> 
+## Os arquivos, mostrando o modelo, diagrama e respondendo as perguntas
+Há três arquivos: 
 <ol> 
 <li> DiagramaBanco.png - este se trata do diagrama do banco;</li>
 <li> ModelagemBanco.png - este aqui sendo a modelagem do banco;</li>
 <li> ScriptBanco.sql - este sendo justamente todo o script que foi usado para levantar esse banco e suas tabelas.</li>
 </ol>
 <hr>
-<h4> O digrama </h4>
+## O digrama
 Após levantamento dos dados, foi visto a necessidade da criação de mais entidades para complementar aquelas já existentes. Neste caso foram adicionadas as entidades professor e disciplina.
 <img src="/DiagramaBanco.png" width="800px"/>
 <hr>
-<h4> A modelagem </h4>
+## A modelagem 
 <img src="/ModelagemBanco.png" width="500px"/>
 As entidades estão relacionamento de pertencimento uma com as outras, sendo professor e aluno não se encontrando ou tendo relações diretas, porém estão diretamente interligados pela tabela turma. Os principais campos foram:
 <ol> 
