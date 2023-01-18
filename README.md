@@ -20,10 +20,10 @@ Após levantamento dos dados, foi visto a necessidade da criação de mais entid
 <img src="/ModelagemBanco.png" width="500px"/>
 As entidades estão relacionamento de pertencimento uma com as outras, sendo professor e aluno não se encontrando ou tendo relações diretas, porém estão diretamente interligados pela tabela turma. Os principais campos foram:
 <ol> 
-<li> matricula_aluno - PK - Tabela aluno;</li>
-<li> id_professor - PK - Tabela professor;</li>
-<li> id_turma - PK - Tabela turma;</li>
-<li> id_disciplina - PK - Tabela disciplina;</li>
-<li< id_curso - PK - Tabela curso.</li>
+<li> matricula_aluno - PK e FK - Tabela aluno;</li>
+<li> id_professor - PK e FK- Tabela professor;</li>
+<li> id_turma - PK e FK- Tabela turma;</li>
+<li> id_disciplina - PK e FK- Tabela disciplina;</li>
+<li< id_curso - PK e FK- Tabela curso.</li>
 </ol>
 <hr>
