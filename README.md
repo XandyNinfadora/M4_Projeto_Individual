@@ -1,13 +1,13 @@
 # Quarto projeto individual - Sistema de acompanhamento
 Foi proposto fazer uma modelagem de dados dos alunos, turmas e cursos da Resilia, tendo o objetivo de responder as respectivas três perguntas nesse modelo:
-- <h3> Existem outras entidades além dessas três? </h3>
-- Quais são os principais campos e tipos?
-- Como essas entidades estão relacionadas?
+- <h4> Existem outras entidades além dessas três? </h4>
+- <h4> Quais são os principais campos e tipos? </h4>
+- <h4> Como essas entidades estão relacionadas? </h4>
 
 <hr>
 
 ## Os arquivos, mostrando o modelo, diagrama e respondendo as perguntas
-Há três arquivos: 
+<h3> Há três arquivos: </h3>
 <ol> 
 <li> DiagramaBanco.png - este se trata do diagrama do banco;</li>
 <li> ModelagemBanco.png - este aqui sendo a modelagem do banco;</li>
