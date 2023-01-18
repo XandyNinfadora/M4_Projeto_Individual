@@ -1,6 +1,6 @@
 # Quarto projeto individual - Sistema de acompanhamento
 Foi proposto fazer uma modelagem de dados dos alunos, turmas e cursos da Resilia, tendo o objetivo de responder as respectivas três perguntas nesse modelo:
-- Existem outras entidades além dessas três?
+- <h3> Existem outras entidades além dessas três? </h3>
 - Quais são os principais campos e tipos?
 - Como essas entidades estão relacionadas?
 
