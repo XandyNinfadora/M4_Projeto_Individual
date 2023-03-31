@@ -33,7 +33,7 @@ As entidades estão relacionamento de pertencimento uma com as outras, sendo pro
 <li> id_professor - PK e FK- Tabela professor;</li>
 <li> id_turma - PK e FK- Tabela turma;</li>
 <li> id_disciplina - PK e FK- Tabela disciplina;</li>
-<li< id_curso - PK e FK- Tabela curso.</li>
+<li> id_curso - PK e FK- Tabela curso.</li>
 </ol>
 <hr>
 <br>
